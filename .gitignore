@@ -1,0 +1,8 @@
+# Compilation files
+config.h
+slock
+*.o
+
+# Patching stuff
+*.c.orig
+*.h.orig
