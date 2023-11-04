@@ -4,5 +4,4 @@ slock
 *.o
 
 # Patching stuff
-*.c.orig
-*.h.orig
+*.orig
