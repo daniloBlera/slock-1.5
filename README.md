@@ -1,6 +1,11 @@
 # A fork of slock with my configs
 Version forked: [1.5](https://dl.suckless.org/tools/slock-1.5.tar.gz)
 
+# Patches used
+
+* blur pixelated screen [(slock-blurpixelatedscreen-1.4.diff)][blur]
+
+[blur]: https://tools.suckless.org/slock/patches/blur-pixelated-screen/slock-blur_pixelated_screen-1.4.diff
 
 slock - simple screen locker
 ============================
